@@ -1,16 +1,5 @@
 
-const delay = ms => {
-  return new Promise((resolve, reject) => {
-    setTimeout(() => {
-      if (true){
-        resolve (ms)
-      }
-    }, ms)
-  })
-};
-
-
-const logger = time => console.log(`Resolved after ${time}ms`);
+import { delay, logger } from './js/task1'
 
 
 delay(2000).then(logger); // Resolved after 2000ms
