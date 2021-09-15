@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";var r=require("./js/task1"),s=require("./js/task2"),e=require("./js/task3");
 },{"./js/task1":"u2QS","./js/task2":"n9ff","./js/task3":"T9OW"}]},{},["Focm"], null)
-//# sourceMappingURL=/promosofocation/src.d9250604.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.d9250604.js.map
